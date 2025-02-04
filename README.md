@@ -21,8 +21,12 @@
 - 🔜 **Auto-Update Playlists** – Automatically refresh and update M3U playlists.
 - 🔜 **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
 
-📌 **Note:** **AuthoIPTV is just a player and does not provide any content.** You must add your own IPTV playlists to watch videos or live channels.
+## 📥 Download  
+🔗 **Latest Release:** [Download AuthoIPTV](https://github.com/glitport/AuthoIPTV/releases/latest)  
 
 ## Join Our Community
 
 📢 [Telegram Channel](https://t.me/AuthoIPTV) – Get the latest updates and discussions
+
+### ⚠️ Disclaimer  
+AuthoIPTV is a **player only**. It does **not provide any content**. You must add your own M3U playlist to watch videos or channels.  
