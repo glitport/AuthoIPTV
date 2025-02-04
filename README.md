@@ -1,4 +1,4 @@
-# **AuthoIPTV – A Smart and Seamless IPTV Application.**
+# **AuthoIPTV – A Smart and Seamless IPTV Player.**
 
 **AuthoIPTV** is a feature-rich **Electron-powered** IPTV player designed for desktop users. It offers a seamless streaming experience with **M3U playlist support, automatic updates, EPG (Electronic Program Guide) integration, and custom authorization headers** for protected streams. Whether you're watching live TV, movies, or shows, AuthoIPTV delivers a smooth and intuitive experience.
 
