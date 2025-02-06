@@ -15,17 +15,22 @@
 ## **Key Features:**
 
 - ✅ **M3U Playlist Support** – Load, manage, and stream IPTV playlists with ease.  
+- ✅ **Auto-Update Playlists** – Automatically refresh and update M3U playlists.  
 - ✅ **EPG Integration** – View electronic program guide (EPG) from playlist sources.
 - ✅ **Custom Headers Support** – Authenticate with custom headers for secure streams  
 - ✅ **Full-Screen HLS Playback** – Enjoy smooth, immersive streaming.  
 - ✅ **Channel Navigation** – Easily browse and switch between channels inside the player.  
 - ✅ **Playlist Management** – Add, edit, and organize multiple playlists.
 - ✅ **Electron-Based** – Runs as a standalone desktop app for Windows, macOS, and Linux.  
+- ✅ **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
 - ✅ **Material UI Design** – Modern and user-friendly interface.
 
 ## **Upcoming Features:**
-- 🔜 **Auto-Update Playlists** – Automatically refresh and update M3U playlists.
-- 🔜 **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
+- 🔜 **JSON Playlist Support** – Load and manage playlists in JSON format.  
+- 🔜 **Search Playlist & Channels** – Quickly find channels and playlists.  
+- 🔜 **Add Favorite Channel Feature** – Mark and access favorite channels easily.  
+- 🔜 **View Channel Groupings** – Browse channels by categories or groups.  
+- 🔜 **Authentication Credential Support from URL** – Pass credentials directly via URL.
 
 ## 📥 Download  
 🔗 **Latest Release:** [Download AuthoIPTV](https://github.com/glitport/AuthoIPTV/releases/latest)  
