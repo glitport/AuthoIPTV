@@ -24,9 +24,9 @@
 - ✅ **Electron-Based** – Runs as a standalone desktop app for Windows, macOS, and Linux.  
 - ✅ **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
 - ✅ **Material UI Design** – Modern and user-friendly interface.
+- ✅ **JSON Playlist Support** – Load and manage playlists in JSON format.  
 
 ## **Upcoming Features:**
-- 🔜 **JSON Playlist Support** – Load and manage playlists in JSON format.  
 - 🔜 **Search Playlist & Channels** – Quickly find channels and playlists.  
 - 🔜 **Add Favorite Channel Feature** – Mark and access favorite channels easily.  
 - 🔜 **View Channel Groupings** – Browse channels by categories or groups.  
