@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/glitport/AuthoIPTV/releases"><img src="https://img.shields.io/github/release/glitport/AuthoIPTV.svg?style=flat-square" alt="Release"></a> 
-  <a href="https://github.com/glitport/AuthoIPTV/releases/latest"><img src="https://img.shields.io/github/downloads/glitport/AuthoIPTV/latest/total.svg?style=flat-square" alt="Latest Release Download"></a>
   <a href="https://github.com/glitport/AuthoIPTV/releases"><img src="https://img.shields.io/github/downloads/glitport/AuthoIPTV/total.svg?style=flat-square" alt="Download"></a>
 </p>
 
