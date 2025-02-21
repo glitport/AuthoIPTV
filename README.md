@@ -24,9 +24,13 @@
 - ✅ **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
 - ✅ **Material UI Design** – Modern and user-friendly interface.
 - ✅ **JSON Playlist Support** – Load and manage playlists in JSON format.  
+- ✅ **Custom User-Agent for playlist fetching** – Specify custom User-Agent to fetch a playlist.
+- ✅ **Single Stream Playback** – Play a single stream link with custom headers, and ClearKey DRM.
+- ✅ **DASH & DRM support** – DASH & DRM (Clear Key) streams are now supported.
+- ✅ **Playlist & Channel Search** – to quickly find playlists & channels
+- ✅ **Audio Selection for multi-audio streams** – Select your desired audio track.
 
 ## **Upcoming Features:**
-- 🔜 **Search Playlist & Channels** – Quickly find channels and playlists.  
 - 🔜 **Add Favorite Channel Feature** – Mark and access favorite channels easily.  
 - 🔜 **View Channel Groupings** – Browse channels by categories or groups.  
 - 🔜 **Authentication Credential Support from URL** – Pass credentials directly via URL.
