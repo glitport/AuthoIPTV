@@ -22,7 +22,7 @@
 - ✅ **Playlist Management** – Add, edit, and organize multiple playlists.
 - ✅ **Electron-Based** – Runs as a standalone desktop app for Windows, macOS, and Linux.  
 - ✅ **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
-- ✅ **Material UI Design** – Modern and user-friendly interface.
+- ✅ **Material UI Design** – Sleek, user-friendly interface with light and dark mode support.
 - ✅ **JSON Playlist Support** – Load and manage playlists in JSON format.  
 - ✅ **Custom User-Agent for playlist fetching** – Specify custom User-Agent to fetch a playlist.
 - ✅ **Single Stream Playback** – Play a single stream link with custom headers, and ClearKey DRM.
