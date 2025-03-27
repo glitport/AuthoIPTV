@@ -33,6 +33,9 @@
 ## 📥 Download  
 🔗 **Latest Release:** [Download AuthoIPTV](https://github.com/glitport/AuthoIPTV/releases/latest)  
 
+## Terms of Service
+By using this application, you agree to our [Terms of Service](https://github.com/glitport/AuthoIPTV/blob/main/TERMS_OF_SERVICE.md).
+
 ## Join Our Community
 
 📢 [Telegram Channel](https://t.me/AuthoIPTV) – Get the latest updates and discussions
