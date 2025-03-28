@@ -124,7 +124,7 @@ http://music-provider.com/stream.m3u8
 ```m3u  
 #EXTM3U  
 #EXTINF:-1 tvg-id="premium1" tvg-name="Premium TV" group-title="Premium", Premium TV  
-#EXTHTTP:cookie=SESSIONID=abcd1234  
+#EXTHTTP:{"cookie":"SESSIONID=abcd1234"}
 https://premium-provider.com/secure.m3u8  
 ```  
 
@@ -195,7 +195,8 @@ The player sends a request with the **KeyID** in Base64 format:
 
 ```json
 {
-  "kids": ["dGhpcy1pcy1hLWtleWlk"]
+  "kids": ["dGhpcy1pcy1hLWtleWlk"],
+  "type" : "temporary"
 }
 ```
 
