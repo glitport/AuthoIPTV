@@ -40,6 +40,8 @@ By using this application, you agree to our [Terms of Service](https://glitport.
 
 📢 [Telegram Channel](https://t.me/AuthoIPTV) – Get the latest updates and discussions
 
+🤝 Support Us: [Buy us a Ko-fi ☕️](https://ko-fi.com/glitport)
+
 ### ⚠️ Disclaimer  
 AuthoIPTV is a **player only**. It does **not provide any content**. You must add your own M3U playlist to watch videos or channels.  
 
