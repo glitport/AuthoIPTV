@@ -33,6 +33,13 @@
 ## 📥 Download  
 🔗 **Latest Release:** [Download AuthoIPTV](https://github.com/glitport/AuthoIPTV/releases/latest)  
 
+## 📄 License & Legal
+
+This software is provided as freeware and is licensed under a [Custom Freeware License](./LICENSE).
+
+It also makes use of open-source components, each with their own licenses.  
+See the full list here: [Third-Party Licenses](./THIRD_PARTY_LICENSES.md)
+
 ## Terms of Service
 By using this application, you agree to our [Terms of Service](https://glitport.github.io/AuthoIPTV/TERMS_OF_SERVICE).
 
