@@ -5,30 +5,43 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/glitport/AuthoIPTV/releases"><img src="https://img.shields.io/github/release/glitport/AuthoIPTV.svg?style=flat-square" alt="Release"></a> 
+  <!-- Downloads and Popularity -->
+  <a href="https://github.com/glitport/AuthoIPTV/releases/latest"><img src="https://img.shields.io/github/v/release/glitport/authoiptv?label=latest&style=flat-square" alt="Latest Release"></a> 
   <a href="https://github.com/glitport/AuthoIPTV/releases"><img src="https://img.shields.io/github/downloads/glitport/AuthoIPTV/total.svg?style=flat-square" alt="Download"></a>
+<!--   <a href="https://github.com/glitport/authoiptv/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/glitport/authoiptv?style=social" /></a> -->
+<!--   <a href="https://github.com/glitport/authoiptv/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/glitport/authoiptv?style=social" /></a> -->
+  <!-- Technologies -->
+  <a href="https://github.com/glitport/AuthoIPTV/releases"><img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square" alt="Platforms"></a>
+  <a href="https://github.com/electron/electron"><img src="https://img.shields.io/badge/built%20with-Electron-47848F?logo=electron&style=flat-square" alt="Built with Electron"></a>
+<!--   <img alt="React" src="https://img.shields.io/badge/frontend-React-lightblue" /> -->
+<!--   <img alt="HLS.js" src="https://img.shields.io/badge/player-hls.js-orange" /> -->
+<!--   <img alt="Shaka Player" src="https://img.shields.io/badge/player-Shaka%20Player-yellowgreen" /> -->
 </p>
+
+
+---
 
 **AuthoIPTV** is a feature-rich **Electron-powered** IPTV player designed for desktop users. It offers a seamless streaming experience with **M3U playlist support, automatic updates, EPG (Electronic Program Guide) integration, and custom authorization headers** for protected streams. Whether you're watching live TV, movies, or shows, AuthoIPTV delivers a smooth and intuitive experience.
 
 ## **Key Features:**
 
-- ✅ **M3U Playlist Support** – Load, manage, and stream IPTV playlists with ease.  
-- ✅ **Auto-Update Playlists** – Automatically refresh and update M3U playlists.  
-- ✅ **EPG Integration** – View electronic program guide (EPG) from playlist sources.
-- ✅ **Custom Headers Support** – Authenticate with custom headers for secure streams  
-- ✅ **Full-Screen HLS Playback** – Enjoy smooth, immersive streaming.  
-- ✅ **Channel Navigation** – Easily browse and switch between channels inside the player.  
-- ✅ **Playlist Management** – Add, edit, and organize multiple playlists.
-- ✅ **Electron-Based** – Runs as a standalone desktop app for Windows, macOS, and Linux.  
-- ✅ **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
-- ✅ **Material UI Design** – Sleek, user-friendly interface with light and dark mode support.
-- ✅ **JSON Playlist Support** – Load and manage playlists in JSON format.  
-- ✅ **Custom User-Agent for playlist fetching** – Specify custom User-Agent to fetch a playlist.
-- ✅ **Single Stream Playback** – Play a single stream link with custom headers, and ClearKey DRM.
-- ✅ **DASH & DRM support** – DASH & DRM (Clear Key) streams are now supported.
-- ✅ **Playlist & Channel Search** – to quickly find playlists & channels
-- ✅ **Audio Selection for multi-audio streams** – Select your desired audio track.
+- **M3U Playlist Support** – Load, manage, and stream IPTV playlists with ease.  
+- **Auto-Update Playlists** – Automatically refresh and update M3U playlists.  
+- **EPG Integration** – View electronic program guide (EPG) from playlist sources.
+- **Custom Headers Support** – Authenticate with custom headers for secure streams  
+- **Full-Screen HLS Playback** – Enjoy smooth, immersive streaming.  
+- **Channel Navigation** – Easily browse and switch between channels inside the player.  
+- **Playlist Management** – Add, edit, and organize multiple playlists.
+- **Electron-Based** – Runs as a standalone desktop app for Windows, macOS, and Linux.
+- **Playback Libraries (hls.js + Shaka Player)** – Supports HLS via [hls.js](https://github.com/video-dev/hls.js) and DASH + ClearKey DRM via [Shaka Player](https://github.com/shaka-project/shaka-player).  
+- **Keyboard Shortcuts for Quick Navigation** – Navigate easily using keyboard controls.  
+- **Material UI Design** – Sleek, user-friendly interface with light and dark mode support.
+- **JSON Playlist Support** – Load and manage playlists in JSON format.  
+- **Custom User-Agent for playlist fetching** – Specify custom User-Agent to fetch a playlist.
+- **Single Stream Playback** – Play a single stream link with custom headers, and ClearKey DRM.
+- **DASH & DRM support** – DASH & DRM (Clear Key) streams are now supported.
+- **Playlist & Channel Search** – to quickly find playlists & channels
+- **Audio Selection for multi-audio streams** – Select your desired audio track.
 
 ## 📥 Download  
 🔗 **Latest Release:** [Download AuthoIPTV](https://github.com/glitport/AuthoIPTV/releases/latest)  
