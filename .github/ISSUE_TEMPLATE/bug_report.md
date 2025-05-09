@@ -10,6 +10,7 @@ assignees: ''
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
 
+
 **To Reproduce**
 <!-- Steps to reproduce the behavior:
 1. Go to '...'
@@ -18,17 +19,21 @@ assignees: ''
 4. See error
 -->
 
+
 **Expected behavior**
 <!-- A clear and concise description of what you expected to happen. -->
+
 
 **Screenshots**
 <!-- If applicable, add screenshots to help explain your problem. -->
 
-**OS (please complete the following information):**
+
+**OS & App Version (please complete the following information):**
 <!--
  - OS: [e.g. Windows 11 x64]
- - App Version [e.g. 0.6.2-beta]
+ - AuthoIPTV Version [e.g. 0.6.2-beta]
 -->
+
 
 **Additional context**
 <!-- Add any other context about the problem here. -->
