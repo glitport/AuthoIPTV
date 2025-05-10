@@ -62,6 +62,8 @@ By using this application, you agree to our [Terms of Service](https://glitport.
 
 🤝 Support Us: [Buy us a Ko-fi ☕️](https://ko-fi.com/glitport)
 
+🧠 Check out the [AuthoIPTV Wiki](https://github.com/glitport/AuthoIPTV/wiki) for everything from setup guides to troubleshooting help and feature explanations.
+
 ### ⚠️ Disclaimer  
 AuthoIPTV is a **player only**. It does **not provide any content**. You must add your own M3U playlist to watch videos or channels.  
 
